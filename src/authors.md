@@ -1,5 +1,8 @@
 # Authors
 
+This work is built upon research and documentation made by a whole community of
+people. Thanks to everyone who has directly or indirectly contributed!
+
 - [Glank](https://twitter.com/__glank)
 - [terry1994](https://github.com/terry-au)
 - [Volvagia](https://twitter.com/volvagia224)
