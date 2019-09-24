@@ -1,0 +1,5 @@
+[book]
+authors = ["Kieran Monaghan"]
+multilingual = false
+src = "src"
+title = "PracticeROM Manual"
