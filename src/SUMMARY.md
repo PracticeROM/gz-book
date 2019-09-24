@@ -2,6 +2,9 @@
 
 [Introduction](./introduction.md)
 - [Installation](./installation.md)
+  - [Nintendo 64 Console / Emulator](./emuflashcart.md)
+  - [Wii Virtual Console](./wiivc.md)
+  - [Gameshark](./gameshark.md)
 - [Menus](./menus.md)
   - [Warps](./warps.md)
   - [Scene](./scene.md)
@@ -13,7 +16,7 @@
   - [Watches](./watches.md)
   - [Debug](./debug.md)
   - [Settings](./settings.md)
-- [VC Issues](./vcissues.md)
+- [Wii Virtual Console Issues](./vcissues.md)
 - [Issues With Savestates](./issueswithsavestates.md)
   - [Dangling Pointers](./danglingpointers)
   - [Corruptions](./corruptions)
