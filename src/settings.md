@@ -1,6 +1,6 @@
 # Settings
 
-This is where most of the functionality of gz is configured. The **profile**
+This is where most of the functionality of The Practice ROM is configured. The **profile**
 option selects which profile to save and load settings to and from. When the
 game starts, the settings saved to profile zero are automatically loaded, if
 any. The appearance of the menu can be configured with the **font** and

@@ -1,6 +1,6 @@
 # VC Issues
 
-There are some known issues with the Wii VC version of gz;
+There are some known issues with the Wii VC version of The Practice ROM;
 
 -   The D-Pad on the Classic/Gamecube Controller is mapped to the L button on
     the Virtual Console. The WAD patcher remaps the D-Pad to be functional

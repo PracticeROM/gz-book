@@ -21,7 +21,7 @@ Follow these steps;
     special keycode to boot, you'll first need to boot the Gameshark with a
     game that works with the default keycode, select the the required keycode
     in the Key Codes menu, and then reboot with the game you wish to use with
-    gz.
+    The Practice ROM.
 2.  In the Select Cheat Codes menu, select your game and make sure the `(M)`
     code is active, if one exists.
 3.  In the Start Game submenu, enable the Code Generator option, and select
@@ -32,7 +32,7 @@ Follow these steps;
     USB Device or something similar).
 6.  Select libusbK in the driver list and click Replace Driver.
 7.  Navigate to the directory that corresponds to your game and run the
-    `upload.bat` script. This will instruct the Gameshark utility to upload gz
+    `upload.bat` script. This will instruct the Gameshark utility to upload The Practice ROM
     to the game's memory, and then disconnect the Gameshark. The operation will
     take a while.
 8.  When the upload is completed, you can disconnect the USB cable and start

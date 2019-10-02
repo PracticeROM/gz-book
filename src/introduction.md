@@ -4,7 +4,7 @@ This is a trainer / practice / testing utility for The Legend of Zelda: Ocarina
 of Time, formally known by its codename gz, but generally referred to as
 "The Practice ROM".
 
-*Note: If you're using gz on the Wii VC, you should read the
+*Note: If you're using The Practice ROM on the Wii VC, you should read the
 [VC issues](./vcissues.html) section to find out about the differences in the VC
 version.*
 

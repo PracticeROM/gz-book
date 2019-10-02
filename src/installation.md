@@ -1,4 +1,4 @@
-# Installing gz
+# Installing The Practice ROM
 
 The currently supported games are:
 

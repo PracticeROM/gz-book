@@ -8,6 +8,6 @@ game is concerned, frame advancing is essentially lag. The note sync mechanic
 is not robust against severe lag, and such lag can cause the staff to simply
 stop playing notes, or break in other strange ways.
 
-gz circumvents these issues by disabling the audio sync when frame advancing or
+The Practice ROM circumvents these issues by disabling the audio sync when frame advancing or
 recording/playing a macro. Instead, the game is assumed to run at a constant
 framerate with no lag, so that no timing adjustment needs to be done.
