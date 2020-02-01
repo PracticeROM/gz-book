@@ -1,4 +1,4 @@
-# Issues with savestates
+# Issues With Savestates
 
 ## Dangling Pointers
 

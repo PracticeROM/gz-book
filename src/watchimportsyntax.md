@@ -16,10 +16,10 @@ The name of the watch goes first, contained in double quotes. After it comes
 the data type. valid data types are:
 
 ```
-* u8,  s8,  x8  : one-byte value (signed format, unsigned format, hex format)
-* u16, s16, x16 : two-byte value (ditto)
-* u32, s32, x32 : four-byte value (ditto)
-* f32           : four-byte value, 32-bit ieee 754 single-precision floating-point format
+u8,  s8,  x8  : one-byte value (signed format, unsigned format, hex format)
+u16, s16, x16 : two-byte value (ditto)
+u32, s32, x32 : four-byte value (ditto)
+f32           : four-byte value, 32-bit ieee 754 single-precision floating-point format
 ```
 
 Finally comes the address. In the example above, the address is just a simple
@@ -31,8 +31,8 @@ indirection.
 The available arithmetic operators are:
 
 ```
-* *, /, % : multiplication, division, and remainder
-* +, - : addition and subtraction
+*, /, % : multiplication, division, and remainder
++, - : addition and subtraction
 ```
 
 Here's an example address with arithmetic operations:
@@ -99,7 +99,7 @@ expressions. Whenever one of these are encountered, they are replaced by the
 address represented by that symbol.
 
 ```
-"Link x" f32 Link + 0x24
+"Link x" f32 link + 0x24
 ```
 
 The above expression results in whatever address the Link actor is loaded at,
