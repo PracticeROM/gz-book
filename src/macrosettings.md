@@ -2,7 +2,7 @@
 
 This menu provides advanced settings for macro recording. The Practice ROM implements certain
 hacks to keep macros in sync (See
-[About Frame Advancing and Recording](./aboutframeadvancingandrecording.html)).
+[About Frame Advancing and Recording](./aboutframeadvancing.html)).
 All hacks are enabled by default. Disabling the hacks can cause issues and
 desyncs, and should only be done if required. For example, when recording a
 setup that is sensitive to room loading lag. For such use cases, the hacks
