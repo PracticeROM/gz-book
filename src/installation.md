@@ -8,7 +8,7 @@ or on an N64 Emulator such as Project 64***
 The following iterations of The Legend of Zelda: Ocarina of Time are supported
 for use with The Practice ROM.
 
-### Wii Virtual Console WADs of The Legend of Zelda: Ocarina of Time
+### N64 ROMs of The Legend of Zelda: Ocarina of Time
 
 -   The Legend of Zelda: Ocarina of Time (USA) (1.0)
 -   The Legend of Zelda: Ocarina of Time (USA) (1.1)
