@@ -3,8 +3,8 @@
 This menu allows toggling the builtin cheats on and off. The following cheats
 are available:
 
--   **energy:** Gives full health
--   **magic:** Gives full magic
+-   **energy:** Gives full health.
+-   **magic:** Gives full magic.
 -   **_various items:_** Sets item amounts to the current capacity of that
     item, or to one if the capacity is zero or unlimited.
 -   **small keys:** Sets the number of small keys to one within the current
@@ -20,6 +20,7 @@ are available:
     be used regardless of location.
 -   **no minimap:** Keeps the minimap hidden at all times.
 -   **isg:** Permanently activates the *infinite sword glitch*.
+-   **quick text:** Activates fast scrolling for all textboxes.
 
 To undo the effects of the *no music*, *items usable*, and *no minimap* cheats,
 turn the cheat off and enter a new scene, or reload the current scene.

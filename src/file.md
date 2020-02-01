@@ -9,11 +9,12 @@ normally appears. The **memory file** selects the memory file to save to and
 load from when using the memory file commands (see
 [Settings](./settings.html)).
 The current time of day can be manually adjusted, or automatically
-fast-forwarded to day or night with the corresponding buttons. **carpenters
-freed**, **intro cutscenes**, and **rewards obtained** let's you set and clear
-various flags in the current file. Pressing the checkmark will set the
-pertinent flags such that they have been "completed", and the cross will clear
-them (setting them to the state that they were in when the file was created).
+fast-forwarded to day or night with the corresponding buttons. **epona freed**,
+**carpenters freed**, **intro cutscenes**, and **rewards obtained** let's you
+set and clear various useful flags in the current file. Pressing the checkmark
+will set the pertinent flags such that they have been "completed", and the
+cross will clear them (setting them to the state that they were in when the
+file was created).
 
 The **timer 1** and **timer 2** options display and modify the state of the two
 types of timers in the game. The first timer is used for hot rooms and races,
@@ -31,21 +32,18 @@ to FFh, as it is by default on the title screen, saving will have no effect.
 There's also a **language** and **z targeting** option, which apply to the
 current file.
 
-Save files can be saved to and and loaded from an ED64 SD card with the
-**save to disk** and **load from disk** options. Pressing _load from disk_ will
-bring up the file browser. Pressing the name of a save file will load it and
-return to the file menu. The **load file to** and **after loading** options
-decide where in memory the file will be loaded to (the current zelda file, the
-currently selected memfile slot, or both), and what should happen when the
-loading is completed (reload scene, void out, or nothing). The _after loading_
-option will have no effect when loading only to the current memfile. The file
-extension used for save files on disk is `.ootsave`, and the default filename
-is `file`. The filename can be changed by pressing the name field. Select the
-position you want to change with the D-Pad left and D-Pad right, and use the
-D-Pad up and D-Pad down to cycle between characters. Holding Z will cycle 3
-characters at a time. Pressing **clear** will set the name field to be empty.
-When the name field is empty, the default filename is `untitled`. When saving,
-pressing the name of a save file in the file browser will copy that name to the
-name field. Pressing accept will save the file to the current folder in the
-file browser with the specified file name. If the file exists, you will be
-prompted to overwrite it.
+Save files can be saved to and and loaded from an SD card with the **save to
+disk** and **load from disk** options. Pressing _load from disk_ will bring up
+the file browser. Pressing the name of a save file will load it and return to
+the file menu. The **load file to** and **after loading** options decide where
+in memory the file will be loaded to (the current zelda file, the currently
+selected memfile slot, or both), and what should happen when the loading is
+completed (reload scene, void out, or nothing). The _after loading_ option will
+have no effect when loading only to the current memfile. The file extension
+used for save files on disk is `.ootsave`, and the default filename is `file`.
+The filename can be changed by pressing the name field. Pressing **clear** will
+set the name field to be empty. When the name field is empty, the default
+filename is `untitled`. When saving, pressing the name of a save file in the
+file browser will copy that name to the name field. Pressing accept will save
+the file to the current folder in the file browser with the specified file
+name. If the file exists, you will be prompted to overwrite it.

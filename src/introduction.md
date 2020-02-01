@@ -1,9 +1,5 @@
 # Introduction
 
-This is a trainer / practice / testing utility for The Legend of Zelda: Ocarina
-of Time, formally known by its codename gz, but generally referred to as
-"The Practice ROM".
-
 *Note: If you're using The Practice ROM on the Wii VC, you should read the
 [VC issues](./vcissues.html) section to find out about the differences in the VC
 version.*
@@ -25,3 +21,5 @@ Beyond the tools provided by the utility menu there is also;
 -   **A timer.** Measures real-time using the CPU counter. *Disabled by
     default.*
 -   **_Various button-activated commands._**
+
+These features can be configured from the settings menu (see [Settings](./settings.html)).

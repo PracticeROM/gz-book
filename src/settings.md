@@ -1,16 +1,19 @@
 # Settings
 
-This is where most of the functionality of The Practice ROM is configured. The **profile**
-option selects which profile to save and load settings to and from. When the
-game starts, the settings saved to profile zero are automatically loaded, if
-any. The appearance of the menu can be configured with the **font** and
+This is where most of the functionality of The Practice ROM is configured.
+
+The **profile** option selects which profile to save and load settings to and
+from. When the game starts, the settings saved to profile zero are
+automatically loaded, if any.
+
+The appearance of the menu can be configured  with the **font** and
 **drop shadow** options. Disabling drop shadow can reduce the graphical
 computation impact of the menu, but may also reduce readability. The visibility
 of the on-screen display elements can be configured with the **input display**,
 **log**, **lag counter**, **timer**, and **pause display** options. The screen
 position of the utility menu, input display, log, lag counter, and timer can be
 configured by their respective positioning buttons. Holding Z when positioning
-an element will move it faster. The display unit of the lag counter can be set
+an element will move it faster.The display unit of the lag counter can be set
 to *frames* or *seconds*. **macro input** enables or disables controller input
 when macro playback is active. The **break type** option decides how the
 *break free* command will function. When the break type is *normal*, the
@@ -48,7 +51,7 @@ simultaneously.
 
 The following commands are available:
 
--   **show/hide menu**: Opens the utility menu if it's closed, closes it if
+-   **show/hide menu:** Opens the utility menu if it's closed, closes it if
     it's opened. *Default: `R + L`*
 -   **return from menu:** Returns to the previous menu, as if the *return*
     button was pressed. *Default: `R + D-Left`*
@@ -101,12 +104,16 @@ The following commands are available:
     down to loop the macro. *Default: `unbound`*
 -   **collision view:** Toggle the collision view on or off.
     *Default: `unbound`*
+-   **hitbox view:** Toggle the hitbox view on or off.
+    *Default: `unbound`*
 -   **explore prev room:** Loads the previous room while using the scene
     explorer. *Default: `R + D-Down`*
 -   **explore next room:** Loads the next room while using the scene explorer.
     *Default: `R + D-Up`*
 -   **reset lag counter:** Resets the number of lag frames recorded to zero.
     *Default: `R + B + D-Right`*
+-   **toggle watches:** Shows or hides watches globally.
+    *Default: `R + D-Right`*
 -   **start/stop timer:** Starts the on-screen timer if it is stopped, stops it
     if it's running. *Default: `R + A + D-Left`*
 -   **reset timer:** Sets the time of the on-screen timer to zero.

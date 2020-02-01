@@ -15,10 +15,10 @@ This menu contains various debug features to use for testing;
     actors of that type. The address and id of the selected actor is displayed
     below, as well as the actor variable in that actor instance. The **delete**
     option deletes the currently selected actor, and the **go to** option
-    teleports link to the location of that actor. To spawn a new actor, enter
+    teleports Link to the location of that actor. To spawn a new actor, enter
     an actor id, variable, the x, y, and z components of the position and
     rotation to spawn the actor at, and press **spawn**. The **fetch from
-    link** option loads link's current position and rotation into the position
+    link** option loads Link's current position and rotation into the position
     and rotation fields.
 -   **flags:** Display and edit saved game flags. The flags are grouped by the
     records they are kept in. Use the arrows to cycle between flag records.
@@ -38,7 +38,7 @@ This menu contains various debug features to use for testing;
     addresses. Holding Z while scrolling will scroll faster. You can also enter
     an address manually in the address field. To edit memory, select the
     desired data type and press a memory cell to modify it.
--   **rdb:** Remote debugging interface through ED64v3 USB FIFO. Press
-    **start rdb** to attach the debugger and halt the program, and **stop rdb**
-    to detach the debugger. Press **break** to hit a breakpoint on the graph
+-   **rdb:** Remote debugging interface through ED64v3 USB FIFO. Press **start
+    rdb** to attach the debugger and halt the program, and **stop rdb** to
+    detach the debugger. Press **break** to hit a breakpoint on the graph
     thread.
