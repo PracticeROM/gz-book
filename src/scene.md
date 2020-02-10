@@ -9,7 +9,7 @@ and D-Pad left and right will move sideways. Use the `explore prev room` and
 `R + D-Down` and `R + D-Up` by default). Pressing L will teleport Link to the
 location and orientation of the crosshair and close the scene explorer.
 
-**Set entrance point** sets Link's current position and orientation as the
+**set entrance point** sets Link's current position and orientation as the
 point where he will respawn after voiding out. **clear flags** and **set
 flags** modifies the temporary and permanent flags for the current scene, which
 keep track of things such as which chests have been opened, which items have

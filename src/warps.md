@@ -11,7 +11,7 @@ options specify which age Link will be at when performing a warp, and which
 cutscene should be played for that scene. These options apply to both the
 places menu and warping using an entrance index.
 
-**Clear cs pointer** will point the cutscene pointer to an empty cutscene,
+**clear cs pointer** will point the cutscene pointer to an empty cutscene,
 which is useful for preventing certain wrong warps from crashing. The bottom of
 the warps menu shows information about the game's current warp parameters.
 

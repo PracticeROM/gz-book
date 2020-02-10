@@ -38,6 +38,3 @@ their type;
 -   **Red:** Hitboxes; deal damage.
 -   **Blue:** Hurtboxes; take damage.
 -   **White:** Bumpboxes; pushes and/or get pushed.
-
-It's common for objects to have multiple overlapping hitboxes of different
-types.

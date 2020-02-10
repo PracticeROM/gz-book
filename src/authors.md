@@ -10,6 +10,6 @@ people. Thanks to everyone who has directly or indirectly contributed!
 - [Fig02](https://twitter.com/fig02_)
 - [mzxrules](https://twitter.com/mzxrules)
 - [faschz](https://twitter.com/faschz)
-- [n3rdswithgame](https://twitter.com/__n3rdswithgame)
+- [n3rdswithgame](https://twitter.com/n3rdswithgame)
 - [Blackop778](https://github.com/Blackop778)
 - tottz
