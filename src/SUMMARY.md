@@ -24,7 +24,7 @@
   - [Corruptions](./corruptions.md)
   - [Graphics](./graphics.md)
   - [Audio](./audio.md)
-- [About Frame Advancing and Recording](./aboutframeadvancing.md)
+- [Frame Advancing and Recording](./aboutframeadvancing.md)
   - [Room Loading](./roomloading.md)
   - [Ocarina Notes](./ocarinanotes.md)
   - [Ocarina Input](./ocarinainput.md)
