@@ -2,7 +2,7 @@
 
 A watch file is a normal text (*.txt) file containing names, types, and
 addresses of watches. Like this document, which happens to be a valid watch
-file. Each line in the file can have one watch entry. The ' character starts a
+file. Each line in the file can have one watch entry. The `#` character starts a
 line comment (like this one). Comments are just plain text that gets ignored
 when importing watches from a watch file.
 

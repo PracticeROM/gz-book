@@ -29,3 +29,14 @@ icon. Press a watch file to bring up a list of all watches contained in that
 file. Press a watch to import it to your watch list. When you've imported all
 the watches you need, press **return** to go back to the watches menu. The
 format of watch files is described [here](./watchimportsyntax.html).
+
+# Premade Import Files
+
+For a maintained list of watches by the community, ready for download and
+use, please follow one of the following links to the appropriate watch list
+and place the file on your SD Card:
+
+* [Version 1.0](https://practicerom.com/watches?version=1.0)
+* [Version 1.1](https://practicerom.com/watches?version=1.1)
+* [Version 1.2 / Wii Virtual Console](https://practicerom.com/watches?version=1.2)
+* [Master Quest](https://practicerom.com/watches?version=mq)
