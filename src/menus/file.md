@@ -7,7 +7,7 @@ navi** sets Navi's advice timer to a value which will make her want to
 talk to you. This will not have any effect until you enter an area where Navi
 normally appears. The **memory file** selects the memory file to save to and
 load from when using the memory file commands (see
-[Settings](./settings.html)).
+[Settings](./menu/settings.html)).
 The current time of day can be manually adjusted, or automatically
 fast-forwarded to day or night with the corresponding buttons. **epona freed**,
 **carpenters freed**, **intro cutscenes**, and **rewards obtained** let's you

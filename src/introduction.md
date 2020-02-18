@@ -6,7 +6,7 @@ version.*
 
 The main interface for accessing the provided tools is the utility menu. By
 default, this menu is brought up by pressing `R + L`, but this button
-combination can be changed (see [Settings](./settings.html)). Use the D-Pad
+combination can be changed (see [Settings](./menu/settings.html)). Use the D-Pad
 to navigate the menu, and L to make a selection. For a description of each of
 the submenus, see their respective section below.
 
@@ -22,4 +22,4 @@ Beyond the tools provided by the utility menu there is also;
     default.*
 -   **_Various button-activated commands._**
 
-These features can be configured from the settings menu (see [Settings](./settings.html)).
+These features can be configured from the settings menu (see [Settings](./menu/settings.html)).
