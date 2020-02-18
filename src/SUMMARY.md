@@ -18,12 +18,15 @@
     - [Watch Import Syntax](./menus/watches/importsyntax.md)
   - [Debug](./menus/debug.md)
   - [Settings](./menus/settings.md)
+  
 - [Wii Virtual Console Issues](./vcissues.md)
+
 - [Issues With Savestates](./savestates/index.md)
   - [Dangling Pointers](./savestates/danglingpointers.md)
   - [Corruptions](./savestates/corruptions.md)
   - [Graphics](./savestates/graphics.md)
   - [Audio](./savestates/audio.md)
+
 - [Frame Advancing and Recording](./frameadvance/index.md)
   - [Room Loading](./frameadvance/roomloading.md)
   - [Ocarina Notes](./frameadvance/ocarinanotes.md)
