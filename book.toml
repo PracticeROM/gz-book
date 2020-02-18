@@ -1,5 +1,17 @@
 [book]
-authors = ["glankk"]
-multilingual = false
-src = "src"
 title = "PracticeROM Manual"
+authors = ["glankk"]
+language = "en"
+
+[output.html]
+it-repository-url = "https://github.com/glankk/gz"
+git-repository-icon = "fa-github"
+
+[output.html.fold]
+enable = true
+level = 1
+
+[output.html.playpen]
+editable = false
+copy-js = true
+line-numbers = false
