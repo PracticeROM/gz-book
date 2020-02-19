@@ -3,11 +3,15 @@ Here's some things you could do if you want to help the project.
 
 Thank you for contributing!
 
+## GitHub Repositories:
+* [Main Application](https://github.com/glankk/gz)
+* [Manual](https://github.com/kdjmonaghan/gz-book)
+
 ## Bug reports
-When submitting a bug report, you should include all the necessary steps for
-reproducing the bug. Describe in detail the expected behavior and the observed
-behavior. Do not submit bug reports about odd behavior caused by using the
-provided utilities to break the game.
+When submitting a [bug report](https://github.com/glankk/gz/issues), you should 
+include all the necessary steps for reproducing the bug. Describe in detail the
+expected behavior and the observed behavior. Do not submit bug reports about 
+odd behavior caused by using the provided utilities to break the game.
 
 ## Feedback
 If you want to submit feedback about possible improvements or feature requests,
