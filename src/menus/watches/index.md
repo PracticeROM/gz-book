@@ -33,11 +33,14 @@ format of watch files is described [here](./watchimportsyntax.html).
 # Premade Import Files
 
 For a maintained list of watches by the community, (always updated, based on
-a spreadsheet that's always kept up  to date) ready for download and use, 
-please follow one of the following links to the appropriate watch list and 
+a spreadsheet that's always kept up  to date) ready for download and use,
+please follow one of the following links to the appropriate watch list and
 place the file on your SD Card:
 
 * [Version 1.0](https://practicerom.com/watches?version=1.0)
 * [Version 1.1](https://practicerom.com/watches?version=1.1)
 * [Version 1.2 / Wii Virtual Console](https://practicerom.com/watches?version=1.2)
-* [Master Quest](https://practicerom.com/watches?version=mq)
+* [Gamecube NTSC-J](https://practicerom.com/watches?version=gcj)
+* [Gamecube NTSC-U](https://practicerom.com/watches?version=gc)
+* [Master Quest NTSC-J](https://practicerom.com/watches?version=mqj)
+* [Master Quest NTSC-U](https://practicerom.com/watches?version=mq)
