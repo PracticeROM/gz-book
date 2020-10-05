@@ -37,4 +37,4 @@ changed with the **macro input** setting in the settings menu.
 
 _Note:_ States can not be used in the file select menu or on the n64 logo.
 
-_See also:_ [Issues with Savestates](./issueswithsavestates.html).
+_See also:_ [Issues with Savestates](../savestates/index.html).
