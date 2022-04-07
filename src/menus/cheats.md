@@ -21,6 +21,8 @@ are available:
 -   **no minimap:** Keeps the minimap hidden at all times.
 -   **isg:** Permanently activates the *infinite sword glitch*.
 -   **quick text:** Activates fast scrolling for all textboxes.
+-   **no hud:** Hides hearts, magic, buttons, rupees and the minimap overlays.
 
-To undo the effects of the *no music*, *items usable*, and *no minimap* cheats,
-turn the cheat off and enter a new scene, or reload the current scene.
+To undo the effects of the *no music*, *items usable*, *no minimap*, and *no
+hud* cheats, turn the cheat off and enter a new scene, or reload the current
+scene.

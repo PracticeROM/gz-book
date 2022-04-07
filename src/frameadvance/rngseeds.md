@@ -21,5 +21,5 @@ following conditions hold;
     RNG is synced up until this point).
 -   The reseed happens on the same macro frame that it was recorded.
 
-If either of these would fail, the RNG is reseeded as normal with an
-unpredictable value.
+If either of these would fail, a warning is displayed and the RNG is reseeded
+as normal with an unpredictable value.

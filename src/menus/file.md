@@ -5,10 +5,9 @@ current file, thus restoring all destroyed gold skulltulas. The gold skulltulas
 in the current scene are not affected until the scene is reloaded. **call
 navi** sets Navi's advice timer to a value which will make her want to
 talk to you. This will not have any effect until you enter an area where Navi
-normally appears. The **memory file** selects the memory file to save to and
-load from when using the memory file commands (see
-[Settings](./menus/settings.html)).
-The current time of day can be manually adjusted, or automatically
+normally appears. **load debug file** loads the default file that used on the
+title screen and when starting the first file on the debug version file select
+menu. The current time of day can be manually adjusted, or automatically
 fast-forwarded to day or night with the corresponding buttons. **epona freed**,
 **carpenters freed**, **intro cutscenes**, and **rewards obtained** let's you
 set and clear various useful flags in the current file. Pressing the checkmark

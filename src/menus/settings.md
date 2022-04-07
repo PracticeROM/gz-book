@@ -1,19 +1,16 @@
 # Settings
 
-This is where most of the functionality of The Practice ROM is configured.
-
-The **profile** option selects which profile to save and load settings to and
-from. When the game starts, the settings saved to profile zero are
-automatically loaded, if any.
-
-The appearance of the menu can be configured  with the **font** and
+This is where most of the functionality of The Practice ROM is configured. The **profile**
+option selects which profile to save and load settings to and from. When the
+game starts, the settings saved to profile zero are automatically loaded, if
+any. The appearance of the menu can be configured with the **font** and
 **drop shadow** options. Disabling drop shadow can reduce the graphical
 computation impact of the menu, but may also reduce readability. The visibility
 of the on-screen display elements can be configured with the **input display**,
 **log**, **lag counter**, **timer**, and **pause display** options. The screen
 position of the utility menu, input display, log, lag counter, and timer can be
 configured by their respective positioning buttons. Holding Z when positioning
-an element will move it faster.The display unit of the lag counter can be set
+an element will move it faster. The display unit of the lag counter can be set
 to *frames* or *seconds*. **macro input** enables or disables controller input
 when macro playback is active. The **break type** option decides how the
 *break free* command will function. When the break type is *normal*, the
@@ -33,7 +30,6 @@ of loading profile zero. The following settings are saved:
 -   Command button binds.
 -   Activated cheats.
 -   Warp menu age, cutscene index, and entrance index.
--   Disk file loading settings.
 
 The **commands** menu lets you bind commands to custom button combinations
 and/or activate them manually. Pressing the name of a command will activate
@@ -61,6 +57,8 @@ The following commands are available:
 -   **fall:** Makes Link fall through the floor, as if there was no floor.
     *Default: `Z + L`*
 -   **turbo:** Sets Link's linear velocity to 27. *Default: `unbound`*
+-   **noclip:** Toggles noclip, equivalent to the *`L + D-Right`* command in
+    the debug version. *Default: `L + D-Right`*
 -   **file select:** Returns (or proceeds) to the game's file select menu.
     *Default: `B + L`*
 -   **reload scene:** Reloads the current scene, starting from the last scene
@@ -73,11 +71,6 @@ The following commands are available:
     slot. *Default: `D-Left`*
 -   **load state:** Load the state saved in the currently selected state slot.
     *Default: `D-Right`*
--   **save memfile:** Saves the current state of the game to the memory file in
-    the current memory file slot. Everything that would be saved when saving
-    the game normally is saved to the memory file. *Default: `unbound`*
--   **load memfile:** Loads the state of the current memory file.
-    *Default: `unbound`*
 -   **save position:** Saves Link's current position and orientation to the
     current position slot. *Default: `unbound`*
 -   **load position:** Teleports Link to the position in the current position
@@ -85,9 +78,6 @@ The following commands are available:
 -   **previous state:** Selects the previous savestate slot.
     *Default: `unbound`*
 -   **next state:** Selects the next savestate slot. *Default: `unbound`*
--   **previous memfile:** Selects the previous memory file slot.
-    *Default: `unbound`*
--   **next memfile:** Selects the next memory file slot. *Default: `unbound`*
 -   **previous position:** Selects the previous position slot to be used for
     teleportation. *Default: `unbound`*
 -   **next position:** Selects the next position slot to be used for

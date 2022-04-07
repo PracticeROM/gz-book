@@ -13,10 +13,12 @@ This menu contains various debug features to use for testing;
 -   **actors:** Browse the currently loaded actors, and spawn new actors.
     Select an actor type and use the arrows to scroll between all the loaded
     actors of that type. The address and id of the selected actor is displayed
-    below, as well as the actor variable in that actor instance. The **delete**
-    option deletes the currently selected actor, and the **go to** option
-    teleports Link to the location of that actor. To spawn a new actor, enter
-    an actor id, variable, the x, y, and z components of the position and
+    below, as well as the actor variable in that actor instance. The **kill**
+    option marks the currently selected actor for deletion, and the **go to**
+    option teleports Link to the location of that actor. Pressing **cull zone**
+    will display the field of view for the selected actor. When the actor is
+    outside of its field of view, it will be culled. To spawn a new actor,
+    enter an actor id, variable, the x, y, and z components of the position and
     rotation to spawn the actor at, and press **spawn**. The **fetch from
     link** option loads Link's current position and rotation into the position
     and rotation fields.
@@ -37,8 +39,10 @@ This menu contains various debug features to use for testing;
     memory domains, and the vertical arrows to scroll up and down between
     addresses. Holding Z while scrolling will scroll faster. You can also enter
     an address manually in the address field. To edit memory, select the
-    desired data type and press a memory cell to modify it.
--   **rdb:** Remote debugging interface through ED64v3 USB FIFO. Press **start
+    desired data type and press a memory cell to modify it. The leftmost column
+    shows the starting address of each row of memory cells. Pressing an address
+    will open the watches menu and create a new watch at that address.
+-   **rdb:** Remote debugging interface through ED64 USB FIFO. Press **start
     rdb** to attach the debugger and halt the program, and **stop rdb** to
     detach the debugger. Press **break** to hit a breakpoint on the graph
     thread.

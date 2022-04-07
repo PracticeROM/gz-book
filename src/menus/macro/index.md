@@ -30,7 +30,21 @@ slot 1 to use for rerecording. **quick play movie** will start macro playback
 from the start and load the state in slot 0.
 
 Macros and savestates can be saved to and loaded from an SD card using **export
-macro** / **import macro** and **export state** / **import state**.
+macro** / **import macro** and **export state** / **import state**. Pressing
+any of these buttons will open the file browser. When importing, pressing the
+name of a file in the file browser will load it and return to the macro menu.
+When exporting, the filename can be changed by pressing the name field. The
+default name for savestates is a number followed by the name of the scene where
+the state was saved. The numbering starts at zero and increments if there is
+already a file with that number in the current directory. Pressing **clear**
+will set the name field to be empty. When the name field is empty, the default
+filename is `untitled`. Pressing the name of a file will copy that name to the
+name field. Pressing accept will save the file to the current folder in the
+file browser with the specified file name. If the file exists, you will be
+prompted to overwrite it. New directories can be created by pressing the folder
+icon to the left of the name field, inputting a name for the new directory with
+the on-screen keyboard, and then pressing the name to confirm. To cancel, use
+the return command.
 
 _Note:_ Macros override all controller input by default, but this can be
 changed with the **macro input** setting in the settings menu.
