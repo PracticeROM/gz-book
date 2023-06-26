@@ -8,7 +8,7 @@ There are some known issues with the Wii VC version of The Practice ROM:
     to the utility menu.
 -   The scene explorer has graphical glitches due to poor emulation.
 
-# Using an N64 Controller on Wii Vritual Console
+# Using an N64 Controller on Wii Virtual Console
 
 If you wish to use the Nintendo 64 controller, using an adapter, on
 Wii Virtual Console you will notice some issues when it comes to the mapping
