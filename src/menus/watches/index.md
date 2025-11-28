@@ -29,7 +29,7 @@ Watches can be imported from text files on an SD card by pressing the folder
 icon. Press a watch file to bring up a list of all watches contained in that
 file. Press a watch to import it to your watch list. When you've imported all
 the watches you need, press **return** to go back to the watches menu. The
-format of watch files is described in the wiki,[here](./watchimportsyntax.html).
+format of watch files is described in the wiki, [here](./importsyntax.html).
 
 # Premade Import Files
 
